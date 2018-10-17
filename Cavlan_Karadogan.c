@@ -1,7 +1,5 @@
-/*
- * NAME: Cavlan Karadogan
- * Number: 17070001022
- */
+/*CavTheCavalier*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
